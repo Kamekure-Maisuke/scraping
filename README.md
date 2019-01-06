@@ -16,9 +16,9 @@
 2. LINE Notifyの登録。
 3. LINE Developersの登録
 ### 「目次」
-1. [chef-app.js]()  
+1. [chef-app.js](https://github.com/Kamekure-Maisuke/scraping/blob/master/GAS-Scraping/chef-app.js)  
 →材料名送信したら、CookPadのレシピを返してくれるLINEBOT。
-2. [today-weather.js]()  
+2. [today-weather.js](https://github.com/Kamekure-Maisuke/scraping/blob/master/GAS-Scraping/today-weather.js)  
 →毎日今日の地元の天気を送信してくれるLINEBOT。
 ### 「使用方法」
 ※「.js」ファイルで書いているが、GASで使用しているため、コード.gsファイル内に書く。（コピー）

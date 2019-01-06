@@ -1,4 +1,4 @@
-// 「ACCESS_TOKEN」をLINE Notifyのアクセストークンに置き換える
+    // 「ACCESS_TOKEN」をLINE Notifyのアクセストークンに置き換える
 var lineToken = "LINE NotifyのTOKENを書く";
 function weatherForecast() {
     // 「CITY_ID」を、天気を取得したいcity idに置き換える(沖縄：471010)
