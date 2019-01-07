@@ -21,5 +21,7 @@
 →材料名送信したら、CookPadのレシピを返してくれるLINEBOT。
 2. [today-weather.js](https://github.com/Kamekure-Maisuke/scraping/blob/master/GAS-Scraping/today-weather.js)  
 →毎日今日の地元の天気を送信してくれるLINEBOT。
+3. [seven-new-product.js](https://github.com/Kamekure-Maisuke/scraping/blob/master/GAS-Scraping/seven-new-product.js)  
+→セブンイレブンの今週の新商品を毎週教えてくれるSlackBot。
 ### 「使用方法」
 ※「.js」ファイルで書いているが、GASで使用しているため、コード.gsファイル内に書く。（コピー）
