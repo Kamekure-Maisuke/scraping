@@ -15,6 +15,7 @@
 1. Googleドライブアカウントの作成
 2. LINE Notifyの登録。
 3. LINE Developersの登録
+4. Slackのwebhookの登録。
 ### 「目次」
 1. [chef-app.js](https://github.com/Kamekure-Maisuke/scraping/blob/master/GAS-Scraping/chef-app.js)  
 →材料名送信したら、CookPadのレシピを返してくれるLINEBOT。
